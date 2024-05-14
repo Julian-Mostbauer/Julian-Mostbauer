@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julian-mostbauer&label=Profile%20views&color=0e75b6&style=flat" alt="julian-mostbauer" /> </p>
 
-- 🔭 I’m currently working on: [Garticphone Bot](https://github.com/Julian-Mostbauer/Queue-Underflow-Frontend)
+- 🔭 I’m currently working on: [Queue-Underflow](https://github.com/Julian-Mostbauer/Queue-Underflow-Frontend)
 
-- 🌱 I’m currently learning: **.net**
+- 🌱 I’m currently learning: **svelte**
 
 - ⚡ Fun fact: **I have one more rib one my right side than my left side**
 
