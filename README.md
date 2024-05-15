@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julian-mostbauer&label=Profile%20views&color=0e75b6&style=flat" alt="julian-mostbauer" /> </p>
 
-- 🔭 I’m currently working on: [Queue-Underflow](https://github.com/Julian-Mostbauer/Queue-Underflow-Frontend)
+- 🔭 I’m currently working on: [Queue Undeflow](https://github.com/Julian-Mostbauer/QueueUnderflow-FrontEnd)
 
 - 🌱 I’m currently learning: **svelte**
 
