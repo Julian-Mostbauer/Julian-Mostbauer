@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julian-mostbauer&label=Profile%20views&color=0e75b6&style=flat" alt="julian-mostbauer" /> </p>
 
-- 🔭 I’m currently working on: [Neo VHE](https://github.com/Julian-Mostbauer/Neo-VHE)
+- 🔭 I’m currently working on: [NoteblockMusic](https://github.com/Julian-Mostbauer/NoteblockMusic)
 
 - 🌱 I’m currently learning: **svelte**
 
