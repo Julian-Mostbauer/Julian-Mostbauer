@@ -66,8 +66,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Julian-Mostbauer&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=julian-mostbauer&show_icons=true&locale=en&layout=compact" alt="julian-mostbauer" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=julian-mostbauer&show_icons=true&locale=en" alt="julian-mostbauer" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=julian-mostbauer&" alt="julian-mostbauer" /></p>
 
 ###
