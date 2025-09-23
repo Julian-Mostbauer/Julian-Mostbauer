@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm Julian Mostbauer from Austria<br><br>- 🔭 I’m currently acquiring and education at the HTL leonding<br>- 📚 I'm currently learning Vue/Nuxt<br>- ⚡ In my free time I like to learn new languages and frameworks</p>
+<p align="left">I'm Julian Mostbauer from Austria<br><br>- 🔭 I’m currently attending the HTL leonding<br>- 📚 I'm currently learning Vue/Nuxt<br>- ⚡ In my free time I like to learn new languages and frameworks</p>
 
 ###
 
