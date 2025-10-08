@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://i.imgur.com/XkbPok1.gif"  />
-</div>
-
 ###
 
 <div align="center">
